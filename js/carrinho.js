@@ -7,7 +7,7 @@ var produtos = [
             alt     : "texto alternativo",
             title   : "título da imagem"
         },
-        desricao    : 'Puma Golf Raglan Tech Polo Tee',
+        descricao    : 'Puma Golf Raglan Tech Polo Tee',
         cor         : 'Purple',
         preco       : 72,
         qtd         : 3
@@ -19,7 +19,7 @@ var produtos = [
             alt     : "texto alternativo",
             title   : "título da imagem"
         },
-        desricao    : 'Nike Mens Running Shoe',
+        descricao    : 'Nike Mens Running Shoe',
         cor         : 'White',
         preco       : 50,
         qtd         : 1
@@ -31,7 +31,7 @@ var produtos = [
             alt     : "texto alternativo",
             title   : "título da imagem"
         },
-        desricao    : 'DC Mens Axis Snowboard Jacket',
+        descricao    : 'DC Mens Axis Snowboard Jacket',
         cor         : 'White',
         preco       : 89.97,
         qtd         : 2
