@@ -3,7 +3,7 @@ var produtos = [
     {//0
         codigo : 50,
         imagem : {
-            src     : '/img/camiseta.png',
+            src     : './img/camiseta.png',
             alt     : "texto alternativo",
             title   : "título da imagem"
         },
@@ -15,7 +15,7 @@ var produtos = [
     {//1
         codigo : 99,
         imagem : {
-            src     : '/img/camiseta.png',
+            src     : './img/camiseta.png',
             alt     : "texto alternativo",
             title   : "título da imagem"
         },
@@ -27,7 +27,7 @@ var produtos = [
     {//2
         codigo : 287,
         imagem : {
-            src     : '/img/camiseta.png',
+            src     : './img/camiseta.png',
             alt     : "texto alternativo",
             title   : "título da imagem"
         },

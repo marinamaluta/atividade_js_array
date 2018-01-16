@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
+    vertical-align: top;
 }
 
 html, body{
@@ -58,4 +59,17 @@ html, body{
     width: auto;
     height: auto;
     display: block;
+}
+
+.formulario__address{
+    display: block;
+    width: 50%;
+        background: yellow;
+}
+
+.formulario__contact{
+    display: block;
+        width: 50%;
+    margin-left: -4px;
+    background: purple;
 }
