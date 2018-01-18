@@ -52,7 +52,7 @@ html, body{
     width: 50px;
     height: 50px;
     margin-top: 10px;
-    display: inline-block;
+   
 }
 
 .product__name{
@@ -62,14 +62,20 @@ html, body{
 }
 
 .formulario__address{
+    width: 40%;
+}
+
+.formulario__address input{
     display: block;
-    width: 50%;
-        background: yellow;
+    width: 90%;
+    height: 25px;
+    
 }
 
 .formulario__contact{
+ 
     display: block;
-        width: 50%;
-    margin-left: -4px;
-    background: purple;
+    width: 50%;
+    height: 25px;
+    margin-left: 4px;
 }
